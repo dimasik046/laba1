@@ -2,6 +2,8 @@
 #include <cmath>
 using namespace std;
 
+//печенье овсяное мария ра плати много
+
 int main() {
     double a, b, c;
     
