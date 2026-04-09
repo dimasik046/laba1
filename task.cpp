@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+//66287282
 //печенье овсяное мария ра плати много
 
 int main() {
