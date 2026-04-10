@@ -2,6 +2,8 @@
 #include <cmath>
 using namespace std;
 
+//6647392
+
 int main() {
     double a, b, c;
     
